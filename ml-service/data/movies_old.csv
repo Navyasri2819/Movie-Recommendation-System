@@ -1,0 +1,68 @@
+movieId,title,genres
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+2,Jumanji (1995),Adventure|Children|Fantasy
+3,Grumpier Old Men (1995),Comedy|Romance
+4,Waiting to Exhale (1995),Comedy|Drama|Romance
+5,Father of the Bride Part II (1995),Comedy
+6,Heat (1995),Action|Crime|Thriller
+7,Sabrina (1995),Comedy|Romance
+8,Tom and Huck (1995),Adventure|Children
+9,Sudden Death (1995),Action
+10,GoldenEye (1995),Action|Adventure|Thriller
+11,"American President, The (1995)",Comedy|Drama|Romance
+12,Dracula: Dead and Loving It (1995),Comedy|Horror
+13,Balto (1995),Adventure|Animation|Children
+14,Nixon (1995),Drama
+15,Cutthroat Island (1995),Action|Adventure|Romance
+16,Casino (1995),Crime|Drama
+17,Sense and Sensibility (1995),Drama|Romance
+18,Four Rooms (1995),Comedy
+19,Ace Ventura: When Nature Calls (1995),Comedy
+20,Money Train (1995),Action|Comedy|Crime|Drama|Thriller
+21,Get Shorty (1995),Comedy|Crime|Thriller
+22,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+23,Assassins (1995),Action|Crime|Thriller
+24,Powder (1995),Drama|Sci-Fi
+25,Leaving Las Vegas (1995),Drama|Romance
+26,Othello (1995),Drama
+27,Now and Then (1995),Children|Drama
+28,Persuasion (1995),Drama|Romance
+29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
+30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),Crime|Drama
+31,Dangerous Minds (1995),Drama
+32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+34,Babe (1995),Children|Drama
+36,Dead Man Walking (1995),Crime|Drama
+39,Clueless (1995),Comedy|Romance
+47,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+110,Braveheart (1995),Action|Drama|War
+150,Apollo 13 (1995),Adventure|Drama|IMAX
+153,Batman Forever (1995),Action|Adventure|Comedy|Crime
+165,Die Hard: With a Vengeance (1995),Action|Crime|Thriller
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
+318,Shawshank Redemption, The (1994),Crime|Drama
+356,Forrest Gump (1994),Comedy|Drama|Romance|War
+364,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX
+480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
+527,Schindler's List (1993),Drama|War
+589,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
+780,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi
+1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi
+1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+1580,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi
+1721,Titanic (1997),Drama|Romance
+2028,Saving Private Ryan (1998),Action|Drama|War
+2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller
+2959,Fight Club (1999),Action|Crime|Drama|Thriller
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy
+5952,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy
+7153,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy
+79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+89745,"Avengers, The (2012)",Action|Adventure|Sci-Fi|IMAX
+109487,Interstellar (2014),Sci-Fi|IMAX
+122904,Deadpool (2016),Action|Adventure|Comedy|Sci-Fi
